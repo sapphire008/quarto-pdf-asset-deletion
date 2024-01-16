@@ -1,0 +1,4 @@
+
+# Chapter 1 Title
+
+![Image](./assets/sliding-moving-average.svg)
